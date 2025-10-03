@@ -14,6 +14,12 @@ Desarrollado en **CodeIgniter 4**, **PHP 8.2**, **MariaDB 10.4**.
 
 ---
 
+## Link de descarga
+- Xampp: https://www.apachefriends.org/es/download.html
+- CodeIgniter4: https://www.codeigniter.com/download/
+
+---
+
 ## 🛠️ Instalación paso a paso (XAMPP)
 
 1. **Ubicación del proyecto**  
@@ -69,11 +75,6 @@ composer install
 
      ```
      http://localhost/hotel/
-     ```
-   * Panel de administrador:
-
-     ```
-     http://localhost/hotel/admin
      ```
 
 ---
